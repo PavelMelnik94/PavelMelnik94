@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, i write my projects.
 
-- :mailbox: How to reach me: recyclesordie94@gmail.com https://www.linkedin.com/in/pavel-melnik-562495203/
+- :mailbox: How to reach me: </br>
+ gmail: recyclesordie94@gmail.com </br>
+ LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
 
 ---
 
