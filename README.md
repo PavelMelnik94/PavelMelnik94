@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"  />&nbsp;
 </div>
 
-mobx, zustand, centrifuge, codeceptjs, graph-cms, chakra-ui, mantine-ui, tiny-ui, ant-design, bulma-ui, git flow
+##### mobx, zustand, centrifuge, codeceptjs, graph-cms, chakra-ui, mantine-ui, tiny-ui, ant-design, bulma-ui, git flow, vite configs, webpack configs, eslint-prettier configs
 ---
 
 ### :fire: My Stats :
