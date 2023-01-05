@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/pavel-melnik-562495203/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=pavelmelnik94&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -30,7 +26,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, i write my projects.
 
-- :mailbox: How to reach me: recyclesordie94@gmail.com
+- :mailbox: How to reach me: recyclesordie94@gmail.com https://www.linkedin.com/in/pavel-melnik-562495203/
 
 ---
 
