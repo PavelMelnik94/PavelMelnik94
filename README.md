@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"  />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"  />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" "alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+mobx, zustand, centrifuge, codeceptjs, graph-cms, chakra-ui, mantine-ui, tiny-ui, ant-design, bulma-ui, git flow
 ---
 
 ### :fire: My Stats :
