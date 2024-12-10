@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working frontend developer.
-
-- :zap: In my free time, i write my projects.
 
 - :mailbox: How to reach me: </br>
  gmail: recyclesordie94@gmail.com </br>
@@ -33,22 +30,15 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind" alt="TailWind" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"  />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="webstorm" alt="webstorm" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"  />&nbsp;
-</div>
 
-##### mobx, zustand, centrifuge, codeceptjs, graph-cms, chakra-ui, mantine-ui, tiny-ui, ant-design, bulma-ui, git flow, vite configs, webpack configs, eslint-prettier configs
+- :zap: mobx, zustand, context, classic observer
+- :zap: centrifuge, axios, tanstack-query
+- :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
+- :zap:  mantine-ui, ant-design, radix-ui
+- :zap: react, jQuery, core
+- :zap: base nodejs - express + prisma experience, CLI project utils
+- :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config)
+- atlassian
 ---
 
 ### :fire: My Stats :
