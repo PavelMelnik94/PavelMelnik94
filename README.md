@@ -29,16 +29,15 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: 
 
 - :zap: mobx, zustand, context, classic observer
 - :zap: centrifuge, axios, tanstack-query
 - :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
-- :zap:  mantine-ui, ant-design, radix-ui
+- :zap: mantine-ui, ant-design, radix-ui
 - :zap: react, jQuery, core
 - :zap: base nodejs - express + prisma experience, CLI project utils
-- :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config)
-- atlassian
+- :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
 ---
 
 ### :fire: My Stats :
