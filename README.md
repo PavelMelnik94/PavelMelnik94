@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - :zap: nodejs(CLI utils)
 - :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PavelMelnik94&theme=highcontrast)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20PavelMelnik94&theme=dark&border_radius=9&short_numbers=true&border=EBA216)](https://git.io/streak-stats)
