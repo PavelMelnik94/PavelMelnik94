@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - :zap: centrifuge, axios, tanstack-query
 - :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
 - :zap: mantine-ui, ant-design, radix-ui
-- :zap: react, jQuery, core
-- :zap: base nodejs - express + prisma experience, CLI project utils
+- :zap: react, jQuery(Umbrella), core
+- :zap: nodejs(CLI utils)
 - :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
 ---
 
