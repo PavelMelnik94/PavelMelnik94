@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **PavelMelnik94/PavelMelnik94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,19 +17,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=pavelmelnik94&style=flat-square&color=blue" alt=""/>
 </div>
 
+-  :mailbox: gmail: recyclesordie94@gmail.com </br>
+-  :mailbox: LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
 ---
-
-### :woman_technologist: About Me :
-
-
-- :mailbox: How to reach me: </br>
- gmail: recyclesordie94@gmail.com </br>
- LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
-
----
-
-### :hammer_and_wrench: 
-
 - :zap: mobx, zustand, context, classic observer
 - :zap: centrifuge, axios, tanstack-query
 - :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
@@ -38,7 +27,5 @@ Here are some ideas to get you started:
 - :zap: react, jQuery(Umbrella), core
 - :zap: nodejs(CLI utils)
 - :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
----
 
-### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=PavelMelnik94&theme=highcontrast)](https://git.io/streak-stats)
