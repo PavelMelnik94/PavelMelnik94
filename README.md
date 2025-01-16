@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -  :mailbox: gmail: recyclesordie94@gmail.com </br>
 -  :mailbox: LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
 ---
-- :zap: mobx, zustand, context, classic observer
-- :zap: centrifuge, axios, tanstack-query
+- :zap: mobx, zustand
+- :zap: centrifuge, axios, tanstack-query(old api)
 - :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
 - :zap: mantine-ui, ant-design, radix-ui
 - :zap: react, jQuery(Umbrella), core
