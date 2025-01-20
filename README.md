@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 -  :mailbox: LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
 ---
 - :zap: mobx, zustand
-- :zap: centrifuge, axios, tanstack-query(old api)
+- :zap: centrifuge(websockets), axios, tanstack-query(old api)
 - :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
 - :zap: mantine-ui, ant-design, radix-ui
 - :zap: react, jQuery(Umbrella), core
 - :zap: nodejs(CLI utils)
-- :telescope: webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
+- :telescope: vite\webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20PavelMelnik94&theme=dark&border_radius=9&short_numbers=true&border=EBA216)](https://git.io/streak-stats)
