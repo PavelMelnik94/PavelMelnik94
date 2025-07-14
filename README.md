@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - :zap: react
 - :zap: zod, react-hook-form
 - :zap: nodejs(CLI utils)
-- :telescope: vite\webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
+- :telescope: vite\webpack5, eslint(flat config), atlassian
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20PavelMelnik94&theme=dark&border_radius=9&short_numbers=true&border=EBA216)](https://git.io/streak-stats)
