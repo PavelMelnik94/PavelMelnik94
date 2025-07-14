@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 -  :mailbox: LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
 ---
 - :zap: mobx, zustand
-- :zap: centrifuge(websockets), axios, tanstack-query(old api)
+- :zap: centrifuge(websockets), axios, react-query
 - :zap: codeceptjs, jest, react-teting-library, vitest, cypress(2e2), storybook
 - :zap: mantine-ui, ant-design, radix-ui
-- :zap: react, jQuery(Umbrella), core
+- :zap: react
+- :zap: zod, react-hook-form
 - :zap: nodejs(CLI utils)
 - :telescope: vite\webpack5 configure configs for prod and dev environments, eslint(flat config), atlassian
 
