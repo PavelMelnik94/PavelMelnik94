@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 -  :mailbox: gmail: recyclesordie94@gmail.com </br>
 -  :mailbox: LinkedIn: https://www.linkedin.com/in/pavel-melnik-562495203/
+-  👨‍💻 code example: https://github.com/PavelMelnik94/ol-beer-ecom
 ---
 - :zap: mobx, zustand
 - :zap: centrifuge(websockets), axios, react-query
