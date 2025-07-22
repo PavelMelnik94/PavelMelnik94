@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=pavelmelnik94&style=flat-square&color=blue" alt=""/>
 </div>
+ 👱 Personal Page https://pavelmelnik.vercel.app/ </br>
 
+code example https://github.com/PavelMelnik94/ol-beer-ecom live https://beer-ecom.vercel.app/
+
+---
 -  :mailbox: Gmail recyclesordie94@gmail.com </br>
--  :mailbox: LinkedIn https://www.linkedin.com/in/pavel-melnik-562495203/
--  :mailbox: Discord https://github.com/PavelMelnik94/ol-beer-ecom
+-  :mailbox: LinkedIn https://www.linkedin.com/in/pavel-melnik-562495203/ </br>
+-  :mailbox: Discord https://github.com/PavelMelnik94/ol-beer-ecom </br>
 -  :mailbox: Telegram @bloodniy_syn
 
 ---
@@ -32,8 +36,7 @@ Here are some ideas to get you started:
 - :zap: nodejs(CLI utils)
 - :telescope: vite\webpack5, eslint(flat config), atlassian
 
----
-code example https://github.com/PavelMelnik94/ol-beer-ecom live https://beer-ecom.vercel.app/
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20PavelMelnik94&theme=dark&border_radius=9&short_numbers=true&border=EBA216)](https://git.io/streak-stats)
